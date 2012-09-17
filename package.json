@@ -1,0 +1,20 @@
+{
+  "author": "Firebase.co <npm@firebase.co> (http://www.firebase.co/)",
+  "name": "orch-amqp",
+  "description": "AMQP(RabbitMQ) source for Orch.js",
+  "version": "0.1.0",
+  "homepage": "http://www.firebase.co",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/firebaseco/node-orch-amqp.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "amqp": "0.1.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">= 0.6.x"
+  }
+}
