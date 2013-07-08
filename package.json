@@ -2,7 +2,7 @@
   "author": "Heapsource.com <npm@heapsource.com> (http://www.heapsource.com)",
   "name": "orch-amqp",
   "description": "AMQP(RabbitMQ) source for Orch.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://www.heapsource.com",
   "repository": {
     "type": "git",
