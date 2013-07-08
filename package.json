@@ -1,20 +1,20 @@
 {
-  "author": "Firebase.co <npm@firebase.co> (http://www.firebase.co/)",
+  "author": "Heapsource.com <npm@heapsource.com> (http://www.heapsource.com)",
   "name": "orch-amqp",
   "description": "AMQP(RabbitMQ) source for Orch.js",
   "version": "0.1.0",
-  "homepage": "http://www.firebase.co",
+  "homepage": "http://www.heapsource.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/firebaseco/node-orch-amqp.git"
+    "url": "git://github.com/heapsource/node-orch-amqp.git"
   },
   "main": "index.js",
   "dependencies": {
-    "amqp": "0.1.x"
+    "amqp": "0.1.x",
+    "orch": ">= 0.1.3"
   },
-  "devDependencies": {},
-  "optionalDependencies": {},
   "engines": {
     "node": ">= 0.6.x"
-  }
+  },
+  "license": "MIT"
 }
