@@ -2,7 +2,7 @@
   "author": "Bithavoc <im@bithavoc.io> (http://bithavoc.io)",
   "name": "orch-amqp",
   "description": "AMQP(RabbitMQ) source for Orch.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "http://bithavoc.io/node-orch-amqp",
   "repository": {
     "type": "git",
