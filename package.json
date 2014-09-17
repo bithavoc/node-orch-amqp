@@ -1,12 +1,12 @@
 {
-  "author": "Heapsource.com <npm@heapsource.com> (http://www.heapsource.com)",
+  "author": "Bithavoc <im@bithavoc.io> (http://bithavoc.io)",
   "name": "orch-amqp",
   "description": "AMQP(RabbitMQ) source for Orch.js",
   "version": "0.1.1",
-  "homepage": "http://www.heapsource.com",
+  "homepage": "http://bithavoc.io/node-orch-amqp",
   "repository": {
     "type": "git",
-    "url": "git://github.com/heapsource/node-orch-amqp.git"
+    "url": "git://github.com/bithavoc/node-orch-amqp.git"
   },
   "main": "index.js",
   "dependencies": {
